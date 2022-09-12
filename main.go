@@ -1,2 +1,3 @@
 funk main()
 
+package main
